@@ -1,1 +1,2 @@
 add_library(test_add_const_ref test_add_const_ref.cc)
+add_executable(test_polymorphic_downcast test_polymorphic_downcast.cc)
