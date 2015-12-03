@@ -1,3 +1,4 @@
 add_library(test_add_const_ref test_add_const_ref.cc)
 add_executable(test_polymorphic_downcast test_polymorphic_downcast.cc)
 add_executable(test_type_descriptor test_type_descriptor.cc)
+add_executable(test_type_descriptor_eng test_type_descriptor_eng.cc)
