@@ -1,4 +1,4 @@
-# C++ Template Metaprogramming
+# C++ Template Metaprogramming [![Build Status](https://travis-ci.org/kdungs/exercises-cpp-tmp.svg?branch=master)](https://travis-ci.org/kdungs/exercises-cpp-tmp)
 
 My solutions to the exercises in the book by David Abrahams and Aleksey
 Gurtovoy. Other than the book, I'm using C++11/14 where applicable.  _Work in
