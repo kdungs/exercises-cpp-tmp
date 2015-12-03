@@ -33,4 +33,4 @@ int main() {
   ss = std::stringstream{};
   ss << type_descriptor<int(*)()>{};
   assert(ss.str() == "int(*)()");
-};
+}

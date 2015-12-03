@@ -33,4 +33,4 @@ int main() {
   ss = std::stringstream{};
   ss << type_descriptor_eng<int (*)()>{};
   assert(ss.str() == "pointer to function returning int");
-};
+}
